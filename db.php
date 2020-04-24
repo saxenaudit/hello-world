@@ -35,3 +35,9 @@ else{
 	echo "string".mysqli_error($conn);
 }
 ?>
+
+/*
+INSERT INTO test1 (id,name,email) VALUES (5,'name 5','name5@test.in');
+have inserted 4 values in table before
+
+*/
